@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+Lib/
+Bin/
+Include/
+.env
+app/gitignore/
+
+
+
